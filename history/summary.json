@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gridy.dk.ico",
     "slug": "gridy",
     "status": "down",
-    "uptime": "92.23%",
+    "uptime": "91.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.32%",
-    "uptimeYear": "92.23%",
+    "uptimeMonth": "70.39%",
+    "uptimeYear": "91.73%",
     "time": 2244,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2272,
     "timeYear": 2244,
     "dailyMinutesDown": {
-      "2024-12-23": 42,
+      "2024-12-23": 886,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -51,9 +51,9 @@
     "url": "https://willaume.net",
     "icon": "https://icons.duckduckgo.com/ip3/willaume.net.ico",
     "slug": "willaume",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,6 +62,8 @@
     "timeWeek": 427,
     "timeMonth": 450,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-23": 0
+    }
   }
 ]
