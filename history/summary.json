@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2244,
     "dailyMinutesDown": {
-      "2025-03-17": 42,
+      "2025-03-17": 45,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -139,8 +139,8 @@
     "slug": "willaume",
     "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.68%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "98.65%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "98.83%",
     "time": 846,
@@ -149,7 +149,7 @@
     "timeMonth": 901,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2025-03-17": 0,
+      "2025-03-17": 3,
       "2025-03-15": 16,
       "2025-03-14": 32,
       "2025-03-13": 35,
