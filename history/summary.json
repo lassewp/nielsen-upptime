@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2244,
     "dailyMinutesDown": {
-      "2025-03-27": 614,
+      "2025-03-27": 635,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -147,12 +147,12 @@
     "url": "https://willaume.net",
     "icon": "https://icons.duckduckgo.com/ip3/willaume.net.ico",
     "slug": "willaume",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "96.89%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "96.88%",
     "uptimeWeek": "96.68%",
     "uptimeMonth": "95.87%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "98.99%",
     "time": 859,
     "timeDay": 894,
     "timeWeek": 946,
@@ -210,7 +210,7 @@
       "2025-01-29": 131,
       "2025-01-28": 18,
       "2025-01-27": 19,
-      "2025-01-24": 35
+      "2025-01-24": 18
     }
   }
 ]
