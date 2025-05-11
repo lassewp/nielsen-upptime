@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gridy.dk.ico",
     "slug": "gridy",
     "status": "down",
-    "uptime": "40.40%",
+    "uptime": "40.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "40.40%",
+    "uptimeYear": "40.39%",
     "time": 2244,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2244,
     "dailyMinutesDown": {
-      "2025-05-10": 1422,
+      "2025-05-11": 51,
+      "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
@@ -194,9 +195,9 @@
     "slug": "willaume",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "91.03%",
-    "uptimeWeek": "95.23%",
-    "uptimeMonth": "97.60%",
+    "uptimeDay": "91.46%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "99.36%",
     "time": 923,
     "timeDay": 2071,
@@ -204,7 +205,7 @@
     "timeMonth": 1168,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2025-05-10": 129,
+      "2025-05-10": 123,
       "2025-05-09": 107,
       "2025-05-08": 20,
       "2025-05-07": 19,
@@ -246,7 +247,7 @@
       "2025-03-20": 83,
       "2025-03-19": 60,
       "2025-03-18": 141,
-      "2025-03-17": 37
+      "2025-03-17": 62
     }
   }
 ]
