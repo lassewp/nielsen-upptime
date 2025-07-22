@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 2244,
     "dailyMinutesDown": {
-      "2025-07-22": 334,
+      "2025-07-22": 359,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -267,13 +267,13 @@
     "slug": "willaume",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "90.78%",
+    "uptimeDay": "90.77%",
     "uptimeWeek": "88.91%",
-    "uptimeMonth": "93.69%",
+    "uptimeMonth": "93.74%",
     "uptimeYear": "99.40%",
     "time": 986,
     "timeDay": 943,
-    "timeWeek": 902,
+    "timeWeek": 901,
     "timeMonth": 924,
     "timeYear": 986,
     "dailyMinutesDown": {
@@ -303,7 +303,7 @@
       "2025-06-28": 185,
       "2025-06-27": 21,
       "2025-06-26": 67,
-      "2025-06-25": 63
+      "2025-06-25": 41
     }
   }
 ]
