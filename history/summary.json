@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nielsentattoo.dk.ico",
     "slug": "nielsen-tattoo",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 365,
     "timeDay": 421,
     "timeWeek": 385,
     "timeMonth": 380,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2025-07-26": 6,
       "2025-04-03": 73,
       "2025-01-31": 135
     }
@@ -38,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 2244,
     "dailyMinutesDown": {
-      "2025-07-26": 1079,
+      "2025-07-26": 1127,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -270,16 +269,16 @@
     "url": "https://willaume.net",
     "icon": "https://icons.duckduckgo.com/ip3/willaume.net.ico",
     "slug": "willaume",
-    "status": "up",
-    "uptime": "99.39%",
+    "status": "down",
+    "uptime": "99.40%",
     "uptimeDay": "92.81%",
     "uptimeWeek": "91.93%",
-    "uptimeMonth": "93.52%",
-    "uptimeYear": "99.39%",
+    "uptimeMonth": "93.56%",
+    "uptimeYear": "99.40%",
     "time": 983,
     "timeDay": 897,
     "timeWeek": 874,
-    "timeMonth": 919,
+    "timeMonth": 918,
     "timeYear": 983,
     "dailyMinutesDown": {
       "2025-07-26": 80,
@@ -308,7 +307,7 @@
       "2025-07-02": 19,
       "2025-07-01": 179,
       "2025-06-30": 68,
-      "2025-06-29": 60
+      "2025-06-29": 42
     }
   }
 ]
