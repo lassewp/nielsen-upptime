@@ -4,7 +4,7 @@
     "url": "https://www.nielsentattoo.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.nielsentattoo.dk.ico",
     "slug": "nielsen-tattoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 378,
     "timeYear": 364,
     "dailyMinutesDown": {
+      "2025-07-26": 0,
       "2025-04-03": 73,
       "2025-01-31": 135
     }
@@ -37,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 2244,
     "dailyMinutesDown": {
-      "2025-07-26": 1016,
+      "2025-07-26": 1073,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -271,17 +272,17 @@
     "slug": "willaume",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "92.01%",
-    "uptimeWeek": "91.82%",
-    "uptimeMonth": "93.54%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "91.93%",
+    "uptimeMonth": "93.52%",
     "uptimeYear": "99.39%",
     "time": 983,
-    "timeDay": 887,
-    "timeWeek": 876,
+    "timeDay": 897,
+    "timeWeek": 874,
     "timeMonth": 919,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2025-07-26": 92,
+      "2025-07-26": 80,
       "2025-07-25": 44,
       "2025-07-24": 69,
       "2025-07-23": 96,
@@ -307,7 +308,7 @@
       "2025-07-02": 19,
       "2025-07-01": 179,
       "2025-06-30": 68,
-      "2025-06-29": 42
+      "2025-06-29": 60
     }
   }
 ]
