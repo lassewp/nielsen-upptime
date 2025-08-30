@@ -6,7 +6,7 @@
     "slug": "nielsen-tattoo",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "97.58%",
+    "uptimeDay": "97.90%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.95%",
@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 2244,
     "dailyMinutesDown": {
-      "2025-08-30": 735,
+      "2025-08-30": 810,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -307,12 +307,12 @@
     "url": "https://willaume.net",
     "icon": "https://icons.duckduckgo.com/ip3/willaume.net.ico",
     "slug": "willaume",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "97.09%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "97.39%",
     "uptimeWeek": "91.25%",
-    "uptimeMonth": "93.08%",
-    "uptimeYear": "99.41%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "99.42%",
     "time": 969,
     "timeDay": 952,
     "timeWeek": 904,
@@ -343,8 +343,7 @@
       "2025-08-09": 115,
       "2025-08-08": 90,
       "2025-08-07": 63,
-      "2025-08-06": 127,
-      "2025-08-05": 22
+      "2025-08-06": 127
     }
   }
 ]
